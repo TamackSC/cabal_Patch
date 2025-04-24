@@ -1,0 +1,41 @@
+1. Put all files in "client" folder.
+2. Change "Cabal.exe" version +1. Example: Old version 1.0.0.6 - New Version: 1.0.0.7
+3. Make .7z file -> put password (7z pw.txt) and name: "update_7.7z" <- new version after "update_X.7z"
+4. Put .7z file into "updates" folder.
+5. Launch "Builder.exe" -> Run as Administrator.
+6. Click "n" -> "enter" -> "enter" -> window closes and "resources.xml" updated.
+7. Upload everything to here:
+
+/var/www/html/launcher19199191
+client files -> to client folder
+update .7z file -> updates
+resource.xml to launcher19199191 folder main.
+
+login details:
+
+/-- VPS Hosting --/
+
+IP Address: 173.212.234.115
+Identification: root
+Password: 1mx3u8RngTM5S3Gl
+
+
+
+"
+4. ใส่ไฟล์ .7z ลงในโฟลเดอร์ "updates"
+5. เปิด "Builder.exe" -> เรียกใช้ในฐานะผู้ดูแลระบบ
+6. คลิก "n" -> "enter" -> "enter" -> หน้าต่างปิดและอัปเดต "resources.xml"
+7. อัปโหลดทุกอย่างมาที่นี่:
+
+/var/www/html/launcher19199191
+ไฟล์ไคลเอนต์ -> ไปยังโฟลเดอร์ไคลเอนต์
+อัปเดตไฟล์ .7z -> อัปเดต
+resources.xml ไปยังโฟลเดอร์หลักของ launcher19199191
+
+เข้าสู่ระบบรายละเอียด:
+
+//--โฮสติ้ง VPS--/
+
+ที่อยู่ IP: 173.212.234.115
+การระบุ: ราก
+รหัสผ่าน: 1mx3u8RngTM5S3Gl
