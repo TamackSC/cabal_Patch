@@ -1,0 +1,16 @@
+  <RemoteSettings>
+      <Settings>
+          <Maintenance>false</Maintenance>
+          <CabalHash>836d8ab846c850c9199e07af1b68a2eb</CabalHash>
+          <UpdateHash>7ddf6be6f855f72b7da001f43353b13d</UpdateHash>
+          <UpdateVersion>1.0.0</UpdateVersion>
+          <UpdateRevision>6</UpdateRevision>
+          <CabalMainHash>07a3348f6eb4f05384837935ad50abe9</CabalMainHash>
+          <CabalMainBuild>263</CabalMainBuild>
+          <CabalMainConstructor>nfXPLKQYra7CzUGQEOQpRZ4OZkaEGJLbI9660ySVpas=</CabalMainConstructor>
+      </Settings>
+      <Hashes count="1">
+          <Hash file="cabalmain.EXE">07a3348f6eb4f05384837935ad50abe9</Hash>
+      </Hashes>
+      <Updates count="0"></Updates>
+  </RemoteSettings>
